@@ -21,7 +21,7 @@ export default function Home() {
           className='rounded-lg m-10'
         />
         <h1 className="text-center text-2xl font-bold my-5">
-          You're all set!
+          You&apos;re all set!
         </h1>
         <p className="text-center text-sm font-bold my-5">
           Milian Travel Poster is ready to be wrapped and packaged.
