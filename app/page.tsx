@@ -28,7 +28,7 @@ export default function Home() {
         </p>
         <div className="flex flex-col items-center my-10">
           <p className="text-center text-sm font-bold">
-            Transaction of <b>0.0015eth</b> is confirmed.
+            Transaction of <b>0.0015 ETH</b> is confirmed.
           </p>
           <Link className="text-center text-sm text-blue-400" href="/">View on Block Explorer</Link>
         </div>
